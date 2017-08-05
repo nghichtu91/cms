@@ -23,7 +23,7 @@
 <meta itemprop="name" content="Social Title">
 <meta itemprop="description" content="">
 <meta itemprop="image" content="https://localhost:9999/social-avatar.jpg">
-
+<script src="https://apis.google.com/js/api:client.js"></script>
 <link rel="stylesheet" href="styles/vendor.css">
 <link rel="stylesheet" href="styles/main.css">
 </head>
