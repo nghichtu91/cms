@@ -10,6 +10,7 @@
 <meta name="robots" content="index, follow">
 <meta name="description" content="">
 <meta name="keywords" content="">
+
 <link rel="shortcut icon" href="favicon.ico">
 <!-- Social: Facebook / Open Graph -->
 <meta property="og:title" content="Social Title">
@@ -23,7 +24,9 @@
 <meta itemprop="name" content="Social Title">
 <meta itemprop="description" content="">
 <meta itemprop="image" content="https://localhost:9999/social-avatar.jpg">
+
 <script src="https://apis.google.com/js/api:client.js"></script>
+
 <link rel="stylesheet" href="styles/vendor.css">
 <link rel="stylesheet" href="styles/main.css">
 </head>
